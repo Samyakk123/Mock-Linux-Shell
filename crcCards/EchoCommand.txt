@@ -1,0 +1,14 @@
+Class name: EchoCommand
+
+Parent class (if any): Commands (CommandsInterface)
+
+Subclasses (if any): None
+
+Responsibilities: 
+* If the file exists, it overwrites old contents of a file with a user specified string
+* If the file exists, it appends to the old contents of a file with a user specified string
+* If the file does not exist, it creates a new file with the contents being the user specified string
+
+Collaborators: 
+* ErrorOutput
+* Redirection

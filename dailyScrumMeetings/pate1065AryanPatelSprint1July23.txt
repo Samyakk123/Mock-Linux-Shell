@@ -1,0 +1,12 @@
+a) What did I work on in the last three days? 
+- Was on vacation for 4 days
+- Unable to work, notified Team and Abbas.
+
+
+b) What do I plan to work in the next three days?
+- Design and implement redirection ( > and >> ) for all commands 
+- Start JUnit testing for commands that are finished
+- Design the implementation for saving and loading current instance of JShell
+
+c) Am I blocked on anything?  
+- None

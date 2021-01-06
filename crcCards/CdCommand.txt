@@ -1,0 +1,13 @@
+Class name: CdCommand
+
+Parent class (if any): Commands (CommandsInterface) 
+
+Subclasses (if any): None 
+
+Responsibilities: 
+* Checks if specified directory exists
+* Changes current working directory to the directory specified
+* If the specified directory is ., .., or /, then it will change the working directory to parent directory, current directory and root of the file respectively
+
+Collaborators: 
+* ErrorOutput

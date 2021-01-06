@@ -1,0 +1,11 @@
+What did I work on in the last three days?
+- Finished cp, mv, and rm commands
+- Validation of cp, mv and rm commands (not for specific cases yet)
+- Brainstormed implementation for find and ls -R commands
+
+What did I plan to work in the next three days??
+- validate specific cases for mv and cp
+- Work on ls -R command
+
+Am I blocked on anything?
+- No

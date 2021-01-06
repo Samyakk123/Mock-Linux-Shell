@@ -1,0 +1,22 @@
+Class name: ParseClass
+
+Parent class (if any): None
+
+Subclasses (if any): None 
+
+Responsibilities: 
+* Checks input and executes the appropriate command 
+
+Collaborators: 
+* CdCommand
+* SpeakCommand
+* UserManual 
+* MkdirCommand
+* LsCommand
+* PwdCommand
+* HistoryCommand
+* CatCommand
+* EchoOneCommand
+* EchoTwoCommand
+* PushdCommand
+* PopdCommand

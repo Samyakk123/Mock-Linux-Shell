@@ -1,0 +1,42 @@
+//Sprint 1 Backlog.  
+July 17 to July 23
+
+User Stories from Product Backlog that we will address in this sprint:
+
+a) As a user, I want to be able to remove a directory from the File System if I no longer need it.
+b) As a user I want to be able to make directories so that I can organize my files. 
+c) As a user, I want to be able to see the contents of multiple files, so that I can know what is inside them. 
+d) As a user, I want to be able to see all contents of all subdirectories from the given pathway.
+e) As a user, I want to be able to move a file/directory to another location in the File System, so that I can relocate it.
+f) As a user, I want to be able to copy a file/directory to another location in the File System, so that I can duplicate it. 
+g) As a user, I want to be able to find all files with a given name inside the pathway provided so that I can check if a file exists.
+h) As a user, I want to be able to find all the directories with a given name inside the pathway provided so that I can check if a directory exists.
+i) As a user, I want to be able to display my entire file system like a tree, so that I can see the hierarchy of my file system.
+
+Specific tasks to be accomplished:
+a-1. (RmCommand) Initialize and design the base code for the remove command. 
+a-2. (Validation/Output/ErrorCheck) Check input for the remove command and give appropriate output. 
+b-1. (MkdirCommand) Implement mkdir so that it accepts multiple pathways and makes directories for each valid input. 
+c-1. (CatCommand/ErrorCheck) Implement the displaying of specific error output for given paths. 
+d-1. (LsCommand) Implement the '-R' extension for ls command. 
+e-1. (MvCommand) Design and Implement the move command. 
+e-2. (Validation/Output/ErrorCheck) Validate move command input and give appropriate output and error messages. 
+f-1. (CpCommand) Design and Implement the copy command. 
+f-2. (Validation/Output/ErrorCheck) Validate the copy command input and give appropriate output and error messages. 
+g-1. (FindCommand) Design and Implement the find command for files. 
+g-2. (Valdiation/Output/ErrorCheck) Validate the  find command for files and give appropriate output and error messages. 
+h-1. (FindCommand) Implement find command for directories. 
+h-2. (Valdiation/Output/ErrorCheck) Validate the find command for directories and give appropriate output and error messages. 
+i-1. (TreeCommand) Design and Implement the tree command. 
+i-2. (validation/Output/ErrorCheck) Validate the tree command and give appropriate error and output messages. 
+
+These tasks are assigned as follows:
+
+User: Aryan Patel
+Tasks: d-1, i-1, i-2, b-1, c-1
+
+User: Divyam Patel
+Tasks: g-1, g-2, h-1, h-2, e-1, e-2, f-1, f-2
+
+User: Samyak Metha
+Tasks: a-1, a-2, e-1, e-2, f-1, f-2

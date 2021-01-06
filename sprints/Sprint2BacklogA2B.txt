@@ -1,0 +1,34 @@
+//Sprint 2 Backlog.  
+July 24 to July 31
+
+User Stories from Product Backlog that we will address in this sprint:
+
+a) As a user, I want to be able to find all files with a given name inside the pathway provided so that I can check if a file exists.
+b) As a user, I want to be able to find all the directories with a given name inside the pathway provided so that I can check if a directory exists.
+c) As a user, I want to be able to save the output in a file instead of terminal so that I can view it later.
+d) As a user, I want to be able to retrieve a file from a given URL so that I can store it in my working directory.
+e) As a user, I want to be able to save my current file system, so that I retrieve it later
+f) As a user, I want to be able to load a previous file system so that I can continue working on it. 
+
+Specific tasks to be accomplished:
+a-1. (FindCommand) Complete find command for files.  
+a-2. (Validation/ErrorOutput/Output) Check input and give peoper error and output messages. 
+b-1. (FindCommand) Complete find command for directories. 
+c-1. (RedirectionInterface) Implement the redirection for all commands. 
+d-1. (CurlCommand/ErrorOutput/Output) Check implementation for the curl command and check proper input and give proper messages. 
+e-1. (SaveCommand) Design and implement the save command. 
+e-2. (Validation/ErrorCheck/Output) Check if input is valid and give proper messages for save command. 
+f-1. (LoadCommand) Design and implement the load command. 
+f-2. (Validation/ErrorCheck/Output) Check if input is valid and give proper messages for load command. 
+g-1. Do unit testing and javadoc/commenting for all commands. 
+
+These tasks are assigned as follows:
+
+User: Aryan Patel
+Tasks: c-1, e-1, e-2, f-1, f-2, g-1
+
+User: Divyam Patel
+Tasks: a-1, a-2, b-1, c-1, e-1, e-2, f-1, f-2, g-1 
+
+User: Samyak Mehta
+Tasks: a-1, a-2, b-1, c-1, d-1, e-1, e-2, f-1, f-2, g-1

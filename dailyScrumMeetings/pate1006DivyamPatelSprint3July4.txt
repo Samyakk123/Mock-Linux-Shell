@@ -1,0 +1,12 @@
+a) What did I work on in the last three days? 
+	- Checked if input for various commands was proper before executing them 
+	- Edited Echo command
+	- Edited minor things in certain commands that needed to be fixed 
+
+b) What do I plan to work in the next three days?
+	- Finish checking input (validation) for all the commmands
+	- Comment all the code and add javadoc 
+	- Fix minor implementations to make code look better and function more efficiently 
+
+c) Am I blocked on anything?  
+	- checking input for echo

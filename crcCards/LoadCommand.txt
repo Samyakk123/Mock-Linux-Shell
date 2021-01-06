@@ -1,0 +1,11 @@
+Class name: LoadCommand
+
+Parent class (if any): Commands (CommandsInterface)
+
+Subclasses (if any): None 
+
+Responsibilities: 
+* Loads the state of your program stored in a name on your filesystem on your system
+
+Collaborators: 
+* ErrorOutput

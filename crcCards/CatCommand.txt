@@ -1,0 +1,13 @@
+Class name: CatCommand
+
+Parent class (if any): Commands (CommandsInterface)
+
+Subclasses (if any): None 
+
+Responsibilities: 
+* Output the contents of a file(s) to the terminal 	
+* Can redirect stdout into a file 
+
+Collaborators: 
+* ErrorOutput
+* Redirection

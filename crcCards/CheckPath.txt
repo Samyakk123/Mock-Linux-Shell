@@ -1,0 +1,11 @@
+Class name: CheckPath
+
+Parent class (if any): None 
+
+Subclasses (if any): None 
+
+Responsibilities: 
+* Checks if given pathway exists and outputs appropriate string message 
+
+Collaborators: 
+FileSystemInterface

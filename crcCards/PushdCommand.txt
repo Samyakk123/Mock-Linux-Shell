@@ -1,0 +1,13 @@
+Class name: PushdCommand
+ 
+Parent class (if any): Commands (CommandsInterface)
+
+Subclasses (if any): None 
+
+Responsibilities: 
+* Save current working directory in stack and then cd to the input directory 
+
+Collaborators: 
+* StackClass
+* ErrorOutput 
+* CdCommand

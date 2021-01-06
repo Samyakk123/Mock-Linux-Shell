@@ -1,0 +1,12 @@
+What did I work on in the last three days?
+- Finsished JShell and Exit up to current implementation
+- Brainstormed implementation of ParseClass with group and helped with errors
+- Brainstormed ideas for history and how it can be implemented
+- Worked on the CRC cards with group (we did this together)
+
+What did I plan to work in the next three days??
+- start and finish the UserManual
+- Use parceClass in the JShell so that the corresponding method can be called
+
+Am I blocked on anything?
+- Need parceClass method implementations to finish so parceClass can be used in JShell

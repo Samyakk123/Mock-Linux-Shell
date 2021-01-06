@@ -1,0 +1,11 @@
+Class name: CurlCommand
+
+Parent class (if any): Commands (CommandsInterface)
+
+Subclasses (if any): None 
+
+Responsibilities: 
+* Retrives the file at the given Url and creates it in the current directory
+
+Collaborators: 
+* ErrorOutput

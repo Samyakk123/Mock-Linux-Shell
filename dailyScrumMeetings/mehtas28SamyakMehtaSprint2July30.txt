@@ -1,0 +1,12 @@
+What did I work on in the last 3 days?
+- Finished redirection
+- mv and cp new implementation
+- JUnit testing
+- JavaDocing and commenting
+- Creating mock systems
+
+What do I plan on working in the 3 days?
+- Notihing. Project done
+
+Am I blocked on anything?
+- No

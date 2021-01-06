@@ -1,0 +1,10 @@
+Class name: File
+
+Parent class (if any): None 
+
+Subclasses (if any): None 
+
+Responsibilities: 
+* Allows creation and implementation of a file 
+
+Collaborators: None

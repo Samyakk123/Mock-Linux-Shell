@@ -1,0 +1,43 @@
++---------------------------------------------------------------------------------------------------------------------------------------+-------------+
+| As a user I want to be able to quit the program so that I can safely leave once I am done.                                            | 1 hour      |
++---------------------------------------------------------------------------------------------------------------------------------------+-------------+
+| As a user, I want something I typed to be spoken back to me repeatedly until I type "QUIT" so that I can then use other commands.     | 3 - 4 hours |
++---------------------------------------------------------------------------------------------------------------------------------------+-------------+
+| As a user, I want a single place to enter commands repeatedly so that I can perform tasks easily.                                     | 3 hour      |
++---------------------------------------------------------------------------------------------------------------------------------------+-------------+
+| As a user I want to be able to make directories so that I can organize my files.                                                      | 4 hours     |
++---------------------------------------------------------------------------------------------------------------------------------------+-------------+
+| As a developer, I want to be able to analyze the users input so that it is easier for bug fixing                                      | 3 hours     |
++---------------------------------------------------------------------------------------------------------------------------------------+-------------+
+| As a user, I want to be able to change directories so that I can access different files.                                              | 3 hours     |
++---------------------------------------------------------------------------------------------------------------------------------------+-------------+
+| As a user, I want to be able to print the contents of my current directory so that I can see all my files.                            | 2 hours     |
++---------------------------------------------------------------------------------------------------------------------------------------+-------------+
+| As a user, I want to be able to print the contents of any path that I provide so that I can see all my files in that pathway.         | 3 hours     |
++---------------------------------------------------------------------------------------------------------------------------------------+-------------+
+| As a user, I want to be able to print the location of the current directory, so that I can recall where I am currently at.            | 1 hour      |
++---------------------------------------------------------------------------------------------------------------------------------------+-------------+
+| As a user, I want to be able to save my previously accessed directories so that I can access them later.                              | 3 hours     |
++---------------------------------------------------------------------------------------------------------------------------------------+-------------+
+| As a user, I want to be able to get the most recent saved directory so that I can access a previously visited location.               | 2 hours     |
++---------------------------------------------------------------------------------------------------------------------------------------+-------------+
+| As a user, I want to be given an error message when I am doing something wrong, so that I can fix it.                                 | 2 hours     |
++---------------------------------------------------------------------------------------------------------------------------------------+-------------+
+| As a user, I want to be able to see a specified number of my previous commands so that I can track my recent entries.                 | 3 hours     |
++---------------------------------------------------------------------------------------------------------------------------------------+-------------+
+| As a user, I want to view all my previously called commands so that I can track what I've done.                                       | 2 hours     |
++---------------------------------------------------------------------------------------------------------------------------------------+-------------+
+| As a user, I want to be able to see the content of a file so that I can know what is inside it.                                       | 2 hours     |
++---------------------------------------------------------------------------------------------------------------------------------------+-------------+
+| As a user, I want to be able to see the contents of multiple files, so that I can know what is inside them.                           | 2 hours     |
++---------------------------------------------------------------------------------------------------------------------------------------+-------------+
+| As a user, I want to provide text to be placed on the screen so that I can view it.                                                   | 1 hours     |
++---------------------------------------------------------------------------------------------------------------------------------------+-------------+
+| As a user, I want to save text into a new file so that I can view it later.                                                           | 2 hours     |
++---------------------------------------------------------------------------------------------------------------------------------------+-------------+
+| As a user, I want to replace everything inside an existing file's content with new text so that I can easily change a file's content. | 2 hours     |
++---------------------------------------------------------------------------------------------------------------------------------------+-------------+
+| As a user, I want to add text on an existing file, so that I can add additional information to my current file.                       | 2 hours     |
++---------------------------------------------------------------------------------------------------------------------------------------+-------------+
+| As a user, I want to be given instructions on how to use each command so that I can get help if I don't know how to use a command.    | 2 hours     |
++---------------------------------------------------------------------------------------------------------------------------------------+-------------+

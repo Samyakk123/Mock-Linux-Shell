@@ -1,0 +1,13 @@
+Class name: SaveCommand
+
+Parent class (if any): Commands (CommandsInterface)
+
+Subclasses (if any): None 
+
+Responsibilities: 
+* saves your entire state of the program to the filesystem on your computer in a given name
+
+Collaborators: 
+* ErrorOutput
+* StackClass 
+* HistoryCommand

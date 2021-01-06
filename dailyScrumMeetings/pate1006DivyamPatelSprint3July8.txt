@@ -1,0 +1,12 @@
+a) What did I work on in the last three days? 
+	- Changed implementation to make it more efficient, by adding an interface 
+	- Changed implementation of Stack, Pushd, and Popd to make it work with interface (Reflection)
+	- Tested code properly, and fixed any errors that arised 
+	- Added comments to the code and javadoc 
+	- Updated CRCcards to match new implementation
+
+b) What do I plan to work in the next three days?
+	- Done Project! 
+
+c) Am I blocked on anything?  
+	- None

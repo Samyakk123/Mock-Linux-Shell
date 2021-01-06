@@ -1,0 +1,12 @@
+a) What did I work on in the last three days? 
+-Finished implementation for EchoOneCommand and EchoTwoCommand Class
+-Started implementing specific output errors for invalid input or each Command
+
+b) What do I plan to work in the next three days?
+- Make Cat and Ls work with multiple parameters (pathway)
+- Commenting my code and complete JavaDoc
+- Continue outputting error for invalid input for each command.
+- Clean up code which is repetitive 
+
+c) Am I blocked on anything?  
+- I am currently not blocked on anythings

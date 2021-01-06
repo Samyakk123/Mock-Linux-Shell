@@ -1,0 +1,13 @@
+Class name: PwdCommand
+
+Parent class (if any): Commands (CommandsInterface)
+
+Subclasses (if any): None 
+
+Responsibilities: 
+* Prints the path to the current working directory
+* Can redirect stdout into a file
+
+Collaborators:  
+* ErrorOutput
+* Redirection

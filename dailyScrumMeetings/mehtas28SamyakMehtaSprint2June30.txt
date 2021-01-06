@@ -1,0 +1,12 @@
+What did I work on in the last three days?
+- Finished testing stack pushed and poped
+- Bug tested history for edge cases
+- started the cat command
+
+What do I plan on working on in the next three days?
+- Finish cat command
+- Finish implementing it with absoolute and relative pathways
+- ErrorCheck and create a few error messages
+
+Any issues:
+- None

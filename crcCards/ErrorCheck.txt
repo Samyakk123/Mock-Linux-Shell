@@ -1,0 +1,11 @@
+Class name: ErrorCheck
+
+Parent class (if any): None 
+
+Subclasses (if any): None 
+
+Responsibilities: 
+* Checks if command inputs has correct syntax
+* Output error message 
+
+Collaborators: None

@@ -1,0 +1,13 @@
+Class name: StackClass
+
+Parent class (if any): None 
+
+Subclasses (if any): None 
+
+Responsibilities: 
+* Keep track of saved Directories
+* Change directory stack when required by pushd and popd commands 
+
+Collaborators: 
+* Output
+* Filesystem

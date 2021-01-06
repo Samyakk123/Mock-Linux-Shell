@@ -1,0 +1,14 @@
+a) What did I work on in the last three days? 
+-Finished Adding CheckPath Class required for MkDir and Cd 
+-Almost Finished MkdirCommand Class
+-Added required methods for FileSystem Class
+
+
+b) What do I plan to work in the next three days?
+-Finish CdCommand Class
+-Finish MkdirCommand Class
+-Finish FileClass 
+-Start and finish designing Pwd Command Class
+
+c) Am I blocked on anything?  
+-Revision Issues Involving editing on the same file, Had to revert back to couple of revisions

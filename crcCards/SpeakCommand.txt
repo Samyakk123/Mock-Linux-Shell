@@ -1,0 +1,11 @@
+Class name: SpeakCommand
+
+Parent class (if any): Commands (CommandsInterface)
+
+Subclasses (if any): None 
+
+Responsibilities: 
+* Converts text into audible speech until user writes “QUIT” 
+
+Collaborators:  
+* ErrorOutput

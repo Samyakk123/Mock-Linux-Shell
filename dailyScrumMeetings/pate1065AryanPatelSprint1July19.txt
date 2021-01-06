@@ -1,0 +1,13 @@
+a) What did I work on in the last three days? 
+- Finished TreeCommand Class
+- Finished Error checking for TreeCommand
+- Finished addition for Cat and Mkdir Command to work with multiple path 
+  and only errors to those paths that are invalid
+
+
+b) What do I plan to work in the next three days?
+- Going on vacation for 4 days
+- Unable to work for the next 4 days,  and notified Team and Abbas.
+
+c) Am I blocked on anything?  
+- None

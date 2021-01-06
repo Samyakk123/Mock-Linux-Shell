@@ -1,0 +1,12 @@
+Class name: RemoveClass
+
+Parent class (if any): Commands (CommandsInterface)
+
+Subclasses (if any): None 
+
+Responsibilities: 
+* removes given directory from current filesystem
+
+Collaborators: 
+* ErrorOutput
+* Directory

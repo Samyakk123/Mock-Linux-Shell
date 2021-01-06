@@ -1,0 +1,15 @@
+Class name: JShell
+
+Parent class (if any): None
+
+Subclasses (if any): None	
+
+Responsibilities:
+* Prompt and receives user input 
+* Converts input into usable function arguments
+
+Collaborators:
+* ParseClass
+* Exit
+* Output 
+* PwdCommand

@@ -1,0 +1,47 @@
+//Sprint 1 Backlog.  
+June 17 to June 23
+
+User Stories from Product Backlog that we will address in this sprint:
+
+a) As a user, I want a single place to enter commands repeatedly so that I can perform tasks easily.
+b) As a user I want to be able to quit the program so that I can safely leave once I am done.
+c) As a user, I want something I typed to be spoken back to me repeatedly until I type 'QUIT' so that I can then use other commands. 
+d) As a user, I want to be given instructions on how to use each command so that I can get help if I don't know how to use a command.
+e) As a user I want to be able to make directories so that I can organize my files. 
+f) As a user, I want to be able to change directories so that I can access different files.
+g) As a developer, I want to be able to analyse the users input so that it is easier for bug fixing
+
+Specific tasks to be accomplished:
+a-1. (JShell) Repeatedly prompt the user for a command
+a-2. (JShell) Save the command in a variable to be used
+a-3. (JShell) Parse the user input for proper keywords
+b-1. (Exit) Initialize and design the base code for the Exit class
+b-2. (Exit) Exit the function in main appropriately (terminate loop in JShell)
+c-1. (Commands) Design the code for Command class 
+c-2. (Commands) Write the base code for the Command class 
+c-3. (SpeakCommand) Design the code for Speak class 
+c-4. (SpeakCommand) Write the base code for the Speak class 
+d-1. (UserManual) Plan out manual for Command-line arguments 
+d-2. (UserManual) Implement the UserManual code incorporating the plan
+d-3. (Output) Code appropriate print statements for classes completed
+e-1. (FileSystem) Design and Implement basic FileSystem class 
+e-2. (DirectoryClass) Code and design basic implementation of the Directory class to allow coding of Mkdir class 
+e-3. (FileClass) Write the base code for the File class
+e-4. (MkdirCommand) Implement the Mkdir class 
+f-1. (CdCommand) Start designing code for Cd Class
+f-2. (CdCommand) Begin coding Cd Class 
+g.1. (ParseClass) Design the basic implementation of the Parse class
+g.2. (ParseClass) Analyse the user input to classify what command it is
+g.3 (Output) Output if it is none of the commands provided
+
+
+These tasks are assigned as follows:
+
+User: Aryan Patel
+Tasks: e-1, e-2, e-3, e-4, f-1, f-2
+
+User: Divyam Patel
+Tasks: c-1, c-2, c-3, c-4, g-1, g-2, g-3
+
+User: Samyak Metha
+Tasks: a-1, a-2, a-3, b-1, b-2, d-1, d-2, d-3

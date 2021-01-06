@@ -1,0 +1,11 @@
+a) What did I work on in the last three days? 
+	- Brainstormed ideas for the different classes and created crc cards for them 
+	- Created a basic implementation for the ParseClass and the Commands class 
+	- Created all the classes needed for sprint 1 related to my responsibilities 
+
+b) What do I plan to work in the next three days?
+	- Get the SpeakCommand working, finish ParceClass implementation necessary for current sprint
+	- Start working on basic implementation of Output class
+
+c) Am I blocked on anything?  
+	- Contemplating how the correct command should be called in the ParseClass without a bunch of if statements

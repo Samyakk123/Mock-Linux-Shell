@@ -1,0 +1,12 @@
+Class name: Output
+
+Parent class (if any): None
+
+Subclasses (if any): None 
+
+Responsibilities: 
+* Prints executed command to the screen
+* Display prompt
+* Display non-error messages to screen
+
+Collaborators: None

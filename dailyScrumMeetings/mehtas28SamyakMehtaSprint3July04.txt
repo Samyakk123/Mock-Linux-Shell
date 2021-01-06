@@ -1,0 +1,12 @@
+What did I work on in the last three days?
+- Finished cat command (not yet with multiple files together)
+- Cat works with absolute and relative pathways
+- Errorchecked and created error messages for incorrect input (more yet to be done)
+
+What did I plan to work on in the next three days?
+- Finish errorchecking and error messages for the other commands
+- Finish cat command with multiple files
+- JavaDoc if time permits
+
+any issues:
+- Echo command error checking

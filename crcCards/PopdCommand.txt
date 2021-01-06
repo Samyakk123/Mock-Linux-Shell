@@ -1,0 +1,11 @@
+Class name: PopdCommand 
+
+Parent class (if any): Commands (CommandsInterface)
+
+Subclasses (if any): None 
+
+Responsibilities: 
+* Leave current directory, and cd to your last previously saved directory in stack
+
+Collaborators:
+* StackClass 

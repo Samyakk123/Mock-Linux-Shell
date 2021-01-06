@@ -1,0 +1,10 @@
+Class name: CommandsInterface
+
+Parent class (if any): None
+
+Subclasses (if any): None 
+
+Responsibilities: 
+* Provides declaration of command methods between classes implementing the interface
+
+Collaborators: None

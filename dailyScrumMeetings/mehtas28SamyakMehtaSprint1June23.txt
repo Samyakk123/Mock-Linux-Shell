@@ -1,0 +1,15 @@
+What did I work on in the last three days?
+- Finished Man class (i.e UserManual)
+- Added all the statements and outlines that go for each command
+- added Output as a collaborator and got printing onto the terminal functionality working via the output class
+- Added it as a collaborator with ParceClass and got the current functionality working
+- Planned for future classes I want to work on for sprint 2 
+
+What did I plan to work in the next three days??
+- Implementing the history class
+- Updating the parce class to keep track of the previously called commands
+- Begin thinking about how the pushd and popd implementations should work
+- Begin basic implementation of the pushd and popd classes
+
+Am I blocked on anything?
+ N/A 

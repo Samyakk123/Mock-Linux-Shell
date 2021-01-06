@@ -1,0 +1,11 @@
+a) What did I work on in the last three days? 
+	- Worked on basic implementation of the find command 
+	- Discussed how to implement redirection for commands 
+
+b) What do I plan to work in the next three days?
+	- Finish completing find command 
+	- Start implementing the redirection for commands 
+	- Plan out curl, save, and load commands 
+	
+c) Am I blocked on anything?  
+	- None 

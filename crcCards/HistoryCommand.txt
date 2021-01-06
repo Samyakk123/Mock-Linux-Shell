@@ -1,0 +1,14 @@
+Class name: HistoryCommand
+
+Parent class (if any): Commands
+
+Subclasses (if any): None 
+
+Responsibilities: 
+* Prints all commands previously called
+* If input is provided, prints only the inputted number of previous commands
+* Can redirect stdout into a file 
+
+Collaborators: 
+* ErrorOutput 
+* Redirection

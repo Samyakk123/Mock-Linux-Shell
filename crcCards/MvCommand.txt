@@ -1,0 +1,11 @@
+Class name: Mv
+
+Parent class (if any): Commands (CommandsInterface)
+
+Subclasses (if any): None 
+
+Responsibilities: 
+* Move file/directory from first given path to second, and remove the one in the first path 
+
+Collaborators: 
+* ErrorOutput

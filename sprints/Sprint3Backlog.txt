@@ -1,0 +1,33 @@
+//Sprint 3 Backlog.  
+July 1 to July 8
+
+User Stories from Product Backlog that we will address in this sprint:
+
+a) As a user, I want to provide text to be placed on the screen so that I can view it. 
+b) As a user, I want to save text into a new file so that I can view it later. 
+c) As a user, I want to replace everything inside an existing file’s content with new text so that I can easily change a file's content. 
+d) As a user, I want to add text on an existing file, so that I can add additional information to my current file.
+e) As a user, I want to be able to see the content of a file so that I can know what is inside it. 
+
+Specific tasks to be accomplished:
+a-1. (EchoOneCommand) Implement echo so that it allows printing the input to screen. 
+a-2. (Validation) Implement validation to check input is proper for echo and also other commands which haven't been
+	validated yet. 
+a-3. (Output) Implement output so that appropriate print statements are given to user. 
+a-4. (ErrorCheck) Implement errorcheck so that appropriate error messages are given to user. 
+b-1. (EchoOneCommand) Implement echo so that text can be appended into a new file.
+c-1. (EchoOneCommand) Implement echo so that text can be overwritten in an existing file.
+d-1. (EchoTwoCommand) Implement echo so that text can be appended in an existing file. 
+e-1. (CatCommand) Implement cat so that contents of files inputted is printed to screen. 
+e-2. (Validation/Output/ErrorCheck) Implement validation, output, and errorcheck for cat command. 
+
+These tasks are assigned as follows:
+
+User: Aryan Patel
+Tasks: a-1, b-1, a-2, a-3, a-4 
+
+User: Divyam Patel
+Tasks: c-1, d-1, a-2, a-3, a-4
+
+User: Samyak Metha
+Tasks: e-1, e-2, a-2, a-3, a-4

@@ -1,0 +1,12 @@
+a) What did I work on in the last three days? 
+- Finished FileClass
+- Finished designing and implementing Tree Class after discussing the issue regarding not having it in Sprint 1 Backlog 1
+- Finished basic implementation of FileSystem Class
+
+b) What do I plan to work in the next three days?
+-Finish FileSystem 
+-Start to design and implement ideas for mkDirCommand
+-Start to design and implement ideas for CdCommand
+
+c) Am I blocked on anything?  
+-Not really, no not blocked on anything at the moment

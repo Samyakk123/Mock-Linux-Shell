@@ -1,0 +1,13 @@
+Class name: FindCommand
+
+Parent class (if any): Commands (CommandsInterface)
+
+Subclasses (if any): None 
+
+Responsibilities: 
+* finds file/directory in given pathway(s)
+* Can redirect stdout into a file 
+
+Collaborators: 
+* ErrorOutput
+* Redirection 

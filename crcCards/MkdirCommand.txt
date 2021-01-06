@@ -1,0 +1,13 @@
+Class name: MkdirCommand
+
+Parent class (if any): Commands (CommandsInterface)
+
+Subclasses (if any): None 
+
+Responsibilities: 
+* Create a directory relative to it’s given directory 
+* Create a directory given a full pathway
+* Create multiple directories relative to it's given directory 
+
+Collaborators: 
+* ErrorOutput

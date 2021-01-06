@@ -1,0 +1,13 @@
+What did I work on in the last three days?
+- Finished testing cp, mv, and rm
+- Brainstormed idea for redirection implementation and ideas
+- Decided more efficient ways to implement other classes
+
+What did I plan to work in the next three days??
+- Implementing the redirection for commands
+- Plan out testing, curling, etc.
+- Ls -R command
+- Validation for the Ls -R command
+
+Am I blocked on anything?
+- No 

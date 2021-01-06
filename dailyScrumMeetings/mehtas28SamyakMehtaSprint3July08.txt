@@ -1,0 +1,11 @@
+What did I work on in the last three days?
+- Finished testing and new implementation of stackClass, pushed, and popped
+- Tested the entire program for edge cases
+- Added comments and javaDocing
+- Finished new implementaiton of HistoryClass
+
+What did I plan to work on in the next three days??
+- Nothing (Project finished)
+
+Am I blocked on anything?
+- No

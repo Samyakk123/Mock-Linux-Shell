@@ -1,0 +1,11 @@
+a) What did I work on in the last three days? 
+- Started and finished writing Junit test cases for our commands
+- Finished outputting proper error message for save and load command 
+- Went over all classes and ensured it has proper Javadoc 
+- Error tested our code for each command
+
+b) What do I plan to work in the next three days?
+- Relax and enjoy our hard work!
+
+c) Am I blocked on anything?  
+- None

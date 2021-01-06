@@ -1,0 +1,13 @@
+Class name: UserManual
+
+Parent class (if any): Commands (CommandsInterface)
+
+Subclasses (if any): None 
+
+Responsibilities: 
+* provide users instructions on how to use each command 
+* Can redirect stdout into a file
+
+Collaborators: 
+* ErrorOutput
+* Redirection

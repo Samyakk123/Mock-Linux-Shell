@@ -1,0 +1,14 @@
+Class name: Redirection
+
+Parent class (if any): None
+
+Subclasses (if any): None 
+
+Responsibilities: 
+* Redirect given content into a file with the given name 
+
+Collaborators: 
+* ErrorOutput
+* FileSystemInterface 
+* Validation
+* CheckPathInterface

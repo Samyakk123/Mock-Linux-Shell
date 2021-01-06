@@ -1,0 +1,13 @@
+a) What did I work on in the last three days? 
+	- Implemented the Speak command so it checks valid input
+	- Implemented the ErrorCheck and Validation class 
+	- Edited the commands and parse class to meet certain requirements 
+
+b) What do I plan to work in the next three days?
+	- Work on the filesystem class and make it work for commands like mkdir, cd, pwd, and more
+	- Change CRC cards to meet finalized design
+	- Test the speak command and make sure it works completely
+	- Check if pushd and popd are working properly 
+
+c) Am I blocked on anything?  
+	- Just on the implementation to filesystem, but working on the issue

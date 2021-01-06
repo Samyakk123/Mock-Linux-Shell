@@ -1,0 +1,15 @@
+What did I work on in the last three days?
+- Finished Cp and Mv up to implementation 
+-Did validation for rm command, cp command, mv command
+- Fixed implementation to work with multiple pathways
+- Brainstormed idea for redirection (and began implementation)
+
+What did I plan to work in the next three days??
+- Finish redirection
+- Work more on validation 
+- Error checking
+- JUnit testing
+- JavaDoc and Commenting
+
+Am I blocked on anything?
+- No

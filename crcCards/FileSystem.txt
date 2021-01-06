@@ -1,0 +1,13 @@
+Class name: FileSystem
+
+Parent class (if any): None 
+
+Subclasses (if any): None 
+
+Responsibilities:
+* Keeps track of the users current directory and files 
+* Keeps track of the entire File System
+
+Collaborators: 
+* Directory
+* File

@@ -1,0 +1,11 @@
+a) What did I work on in the last three days? 
+	- Finished Redirection for all commands, and Save and Load Command 
+	- Completed Junit for various commands 
+	- Checked Commenting and Spacing in Code and Tested commands 
+	- Created proper interfaces and mock files for testing 
+
+b) What do I plan to work in the next three days?
+	- Nothing, Finished Assignment!
+	
+c) Am I blocked on anything?  
+	- None 

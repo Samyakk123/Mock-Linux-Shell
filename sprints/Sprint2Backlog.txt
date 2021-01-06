@@ -1,0 +1,48 @@
+//Sprint 2 Backlog.  
+June 24 to June 30
+
+User Stories from Product Backlog that we will address in this sprint:
+
+a) As a user, I want something I typed to be spoken back to me repeatedly until I type 'QUIT' so that I can then use other commands. 
+b) As a user I want to be able to make directories so that I can organize my files. 
+c) As a user, I want to be able to change directories so that I can access different files.
+d) As a user, I want to be able to print the contents of my current directory so that I can see all my files.
+e) As a user, I want to be able to print the contents of any path that I provide so that I can see all my files in that pathway.
+f) As a user, I want to be able to see a specified number of my previous commands so that I can track my recent entries. 
+g) As a user, I want to view all my previously called commands so that I can track what I’ve done.
+h) As a user, I want to be able to print the location of the current directory, so that I can recall where I am currently at. 
+i) As a user, I want to be able to see the content of a file so that I can know what is inside it. 
+j) As a user, I want to be able to see the contents of multiple files, so that I can know what is inside them. 
+k) As a user, I want to be able to save my previously accessed directories so that I can access them later. 
+l) As a user, I want to be able to get the most recent saved directory so that I can access a previously visited location.  
+m) As a user, I want to be given an error message when I am doing something wrong, so that I can fix it.   
+
+
+Specific tasks to be accomplished:
+a-1. (SpeakCommand) Implement the 'QUIT' portion of the speak command 
+b-1. (DirectoryClass) Implement the directory class to allow implementation for mkdir, cd and other commands 
+b-2. (MkdirCommand) Design and implement the mkdir command
+b-3. (FileSystem) Update the filesystem so it works for Directory class and mkdir command
+c-1. (CdCommand) Design and implement the cd command 
+c-2. (FileSystem) Update the filesystem so it works for Cd command
+d-1. (LsCommand) Design and implement the ls command for current directory
+e-1. (LSCommand) Implement ls so it works with given paths
+f-1. (HistoryCommand) Design and implement the history command for a specific number of previous entries
+g-1. (HistoryCommand) Add onto the history command so it works for all previous entries
+h-1. (PwdCommand) Design and implement the pwd command
+i-1. (EchoOneCommand) Design and start implementing the echo command 
+j-1. (EchoTwoCommand) Design and start implementing the echo two command
+k-1. (PushdCommand) Design and implement the pushd command
+l-1. (PopdCommand) Design and implement the popd command
+m-1. (ErrorCheck/Output) Implement giving proper errors when commands are not given proper inputs
+
+These tasks are assigned as follows:
+
+User: Aryan Patel
+Tasks: b-1, b-2, b-3, c-1, c-2, d-1, e-1, h-1, i-1, j-1
+
+User: Divyam Patel
+Tasks: a-1, b-1, b-2, b-3, c-1, c-2, m-1 , k-1, l-1, d-1, e-1
+
+User: Samyak Metha
+Tasks: f-1, g-1, k-1, l-1, b-3, m-1, d-1, e-1

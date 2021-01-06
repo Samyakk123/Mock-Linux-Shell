@@ -1,0 +1,10 @@
+Class name: CheckPathInterface
+
+Parent class (if any): None
+
+Subclasses (if any): None 
+
+Responsibilities: 
+* Provides declaration of checkpath methods between classes implementing the interface
+
+Collaborators: None

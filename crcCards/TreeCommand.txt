@@ -1,0 +1,13 @@
+Class name: TreeCommand
+
+Parent class (if any): Commands (CommandsInterface)
+
+Subclasses (if any): None 
+
+Responsibilities: 
+* displays the entire current file system as a tree 
+* Can redirect stdout into a file 
+
+Collaborators: 
+* ErrorOutput
+* Redirection

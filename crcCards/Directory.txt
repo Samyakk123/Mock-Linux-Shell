@@ -1,0 +1,11 @@
+Class name: Directory
+
+Parent class (if any): None 
+
+Subclasses (if any): None 
+
+Responsibilities: 
+* Allows creation of directories and keeps tracks of files within it 
+
+Collaborators:  
+FileClass

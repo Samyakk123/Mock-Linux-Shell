@@ -1,0 +1,23 @@
++---------------------------------------------------------------------------------------------------------------------------------------------------+---------+
+| As a user, I want to be able to remove a directory from the File System if I no longer need it.                                                   | 2 hours |
++---------------------------------------------------------------------------------------------------------------------------------------------------+---------+
+| As a user, I want to be able to save the output in a file instead of terminal so that I can view it later.                                        | 5 hours |
++---------------------------------------------------------------------------------------------------------------------------------------------------+---------+
+| As a user, I want to be able to see all contents of all subdirectories from the given pathway.                                                    | 2 hours |
++---------------------------------------------------------------------------------------------------------------------------------------------------+---------+
+| As a user, I want to be able to move a file/directory to another location in the File System, so that I can relocate it.                          | 2 hours |
++---------------------------------------------------------------------------------------------------------------------------------------------------+---------+
+| As a user, I want to be able to copy a file/directory to another location in the File System, so that I can duplicate it.                         | 2 hours |
++---------------------------------------------------------------------------------------------------------------------------------------------------+---------+
+| As a user, I want to be able to retrieve a file from a given URL so that I can store it in my working directory.                                  | 3 hours |
++---------------------------------------------------------------------------------------------------------------------------------------------------+---------+
+| As a user, I want to be able to save my current file system, so that I retrieve it later                                                          | 3 hours |
++---------------------------------------------------------------------------------------------------------------------------------------------------+---------+
+| As a user, I want to be able to load a previous file system so that I can continue working on it.                                                 | 3 hours |
++---------------------------------------------------------------------------------------------------------------------------------------------------+---------+
+| As a user, I want to be able to find all files with a given name inside the pathway provided so that I can check if a file exists.                | 2 hours |
++---------------------------------------------------------------------------------------------------------------------------------------------------+---------+
+| As a user, I want to be able to find all the directories with a given name inside the pathway provided so that I can check if a directory exists. | 2 hour  |
++---------------------------------------------------------------------------------------------------------------------------------------------------+---------+
+| As a user, I want to be able to display my entire file system like a tree, so that I can see the hierarchy of my file system.                     | 2 hour  |
++---------------------------------------------------------------------------------------------------------------------------------------------------+---------+

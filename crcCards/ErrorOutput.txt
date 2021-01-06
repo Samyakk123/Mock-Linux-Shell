@@ -1,0 +1,10 @@
+Class name: ErrorOutput
+
+Parent class (if any): None 
+
+Subclasses (if any): None 
+
+Responsibilities: 
+* Outputs proper error messages for different errors
+
+Collaborators: None

@@ -1,0 +1,16 @@
+Class name: Commands
+
+Parent class (if any): None
+
+Subclasses (if any): CatCommand, CdCommand, SpeakCommand, UserManual, MkdirCommand, LsCommand, PwdCommand, HistoryCommand, CatClass, EchoCommand, PushdCommand, PopdCommand, CpCommand, CurlCommand,
+MvCommand, FindCommand, SaveCommand, LoadCommand, RemoveClass, TreeCommand
+
+Responsibilities:
+* Argument formatting 
+* A blueprint outline for what a command should follow
+* Stores common attributes of commands
+
+Collaborators: 
+* FileSystem 
+* Validation
+* CheckPathInterface

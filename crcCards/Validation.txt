@@ -1,0 +1,13 @@
+Class name: Validation
+
+Parent class (if any): None
+
+Subclasses (if any): None 
+
+Responsibilities: 
+* Checks whether the given input for commands is proper or not and calls the appropriate function or the message
+
+Collaborators: 
+* FileSystem
+* ErrorOutput
+* CheckPathInterface

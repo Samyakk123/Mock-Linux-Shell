@@ -1,0 +1,14 @@
+a) What did I work on in the last three days? 
+	- Changed a minor implementation of Speak Command, Parse, and Validation. 
+	- Started designing echo command, and how to defferentiate between files and
+		directories. 
+	- Worked on filesystem and changed a bit of implementation to make working with directories and file easier. 
+	- Did some error check for commands and tested different cases. 
+
+b) What do I plan to work in the next three days?
+	- Implement portions of echo command that overwrite and append in a file depending on user input. 
+	- Test different cases for the commands. 
+	- Start Working on implementing validation, output, and error messages for more commands. 
+
+c) Am I blocked on anything?  
+	- No

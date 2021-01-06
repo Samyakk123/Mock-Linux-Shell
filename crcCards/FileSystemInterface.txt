@@ -1,0 +1,10 @@
+Class name: FileSystemInterface
+
+Parent class (if any): None
+
+Subclasses (if any): None 
+
+Responsibilities: 
+* Provides implementation of file system methods between classes implementing the interface
+
+Collaborators: None

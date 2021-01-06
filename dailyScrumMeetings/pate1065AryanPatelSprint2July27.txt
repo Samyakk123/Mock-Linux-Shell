@@ -1,0 +1,13 @@
+a) What did I work on in the last three days? 
+- Helped design and implement redirection class for all commands to use 
+- Started writing down different junit test cases
+- Implemented that basics for save and load
+
+
+b) What do I plan to work in the next three days?
+- Start writing code for Junit test 
+- Proper error messages for save and load command 
+- Start writing JavaDoc for each class
+
+c) Am I blocked on anything?  
+- None

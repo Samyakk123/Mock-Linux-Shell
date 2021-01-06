@@ -1,0 +1,15 @@
+Class name: LsCommand
+
+Parent class (if any): Commands (CommandsInterface)
+
+Subclasses (if any): None 
+
+Responsibilities: 
+* Print the names of files and directories of the current working directory or pathway
+* Print the name of the file if given a file pathway 
+* Can Recursively output subdirectories to stdout 
+* Can redirect stdout into a file
+
+Collaborators: 
+* CheckPath
+* Redirection

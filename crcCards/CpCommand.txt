@@ -1,0 +1,11 @@
+Class name: CpCommand
+
+Parent class (if any): Commands (CommandsInterface)
+
+Subclasses (if any): None 
+
+Responsibilities: 
+* Copy the contents of one path to another given path (ex. Directory to Directory, File to Directory)
+
+Collaborators: 
+* ErrorOutput

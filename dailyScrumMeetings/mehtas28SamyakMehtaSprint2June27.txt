@@ -1,0 +1,14 @@
+What did I work on in the last three days?
+- Finished StackClass, Pushed, Popd (without testing yet because not yet capable of doing so)
+- intialized methods in FileSystem and ParceClass
+- Worked together to decide new algorithm for FileClass 
+- Implemented the History class and got it working
+
+What did I plan to work in the next three days??
+- Help fully implement the new fileSystem method
+- test stackCalss, pushed, and popped when possible
+- Bug test history classes for any edge cases
+- Help implement cat class
+
+Am I blocked on anything?
+- No 

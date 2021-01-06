@@ -1,0 +1,11 @@
+Class name: Exit
+
+Parent class (if any): None 
+
+Subclasses (if any): None 
+
+Responsibilities: 
+* Ends all processes and exits the program
+* Make sure all programs are safely closed
+
+Collaborators: None
