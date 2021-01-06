@@ -1,0 +1,92 @@
+// **********************************************************
+// Assignment2:
+// Student1:Divyam Patel
+// UTORID user_name: pate1006
+// UT Student #: 1006139698
+// Author: Divyam Patel
+//
+// Student2: Samyak Mehta
+// UTORID user_name: mehtas28
+// UT Student #: 1006298542
+// Author: Samyak Mehta
+//
+// Student3: Aryan Patel
+// UTORID user_name: pate1065
+// UT Student #: 1006273514
+// Author: Aryan Patel
+//
+// Student4: None
+// UTORID user_name:
+// UT Student #:
+// Author:
+//
+//
+// Honor Code: I pledge that this program represents my own
+// program code and that I have coded on my own. I received
+// help from no one in designing and debugging my program.
+// I have also read the plagiarism section in the course info
+// sheet of CSC B07 and understand the consequences.
+// *********************************************************
+package commands;
+
+import java.io.FileOutputStream;
+import java.io.ObjectOutputStream;
+import filesystem.CommandsInterface;
+import filesystem.ErrorOutput;
+import filesystem.FileSystem;
+
+/**
+ * 
+ * Class responsible for saving current Jshell into the computer
+ *
+ */
+public class SaveCommand extends Commands implements CommandsInterface {
+
+  private static String filepath = null;
+  private StackClass stack = StackClass.currentStackClassInstance();
+  private HistoryCommand history = HistoryCommand.currentHistoryClassInstance();
+
+  /**
+   * Execute save Command
+   */
+  protected void executeCommand() {
+
+    // Get current instance of file System, stack and history
+    FileSystem filesystem = FileSystem.currentFileSystemInstance();
+    filesystem.setStack(stack.getStack());
+    filesystem.setHistory(history.getHistory());
+
+    super.arr = super.userInput.split("\\s+");
+    filepath = super.arr[1];
+
+    try {
+      // writing to computer
+      FileOutputStream file = new FileOutputStream(filepath);
+      ObjectOutputStream object = new ObjectOutputStream(file);
+      object.writeObject(filesystem);
+      object.close();
+
+      // File not found
+    } catch (Exception FileNotFoundException) {
+      super.content = null;
+      ErrorOutput.printWithNewLine("Error: The path does not exist!");
+    }
+  }
+
+  /**
+   * Checks if input from user is valid before calling executeCommand
+   * 
+   * @return super.content the output string
+   */
+  public String checkInput() {
+
+    if (super.validateInput.checkNumberOfParameterOne(super.userInput)) {
+      executeCommand();
+    } else {
+      super.content = null;
+    }
+
+    return super.content;
+  }
+
+}

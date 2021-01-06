@@ -1,0 +1,70 @@
+// **********************************************************
+// Assignment2:
+// Student1:Divyam Patel
+// UTORID user_name: pate1006
+// UT Student #: 1006139698
+// Author: Divyam Patel
+//
+// Student2: Samyak Mehta
+// UTORID user_name: mehtas28
+// UT Student #: 1006298542
+// Author: Samyak Mehta
+//
+// Student3: Aryan Patel
+// UTORID user_name: pate1065
+// UT Student #: 1006273514
+// Author: Aryan Patel
+//
+// Student4: None
+// UTORID user_name:
+// UT Student #:
+// Author:
+//
+//
+// Honor Code: I pledge that this program represents my own
+// program code and that I have coded on my own. I received
+// help from no one in designing and debugging my program.
+// I have also read the plagiarism section in the course info
+// sheet of CSC B07 and understand the consequences.
+// *********************************************************
+package filesystem;
+
+import java.io.Serializable;
+
+/**
+ * 
+ * Class holds basic implementation for files, Stores, gets, and returns file 
+ * contents
+ * 
+ */
+public class FileClass implements Serializable {
+
+  private String fileContent;
+
+  /**
+   * FileClass Constructor
+   * 
+   * @param content the the file content
+   */
+  public FileClass(String content) {
+    this.fileContent = content;
+  }
+
+  /**
+   * Set current file content
+   * 
+   * @param content the new content
+   */
+  public void setContent(String content) {
+    this.fileContent = content;
+  }
+
+  /**
+   * Get current file content
+   * 
+   * @return this.fileContent the file content
+   */
+  public String getFileContents() {
+    return this.fileContent;
+  }
+}
