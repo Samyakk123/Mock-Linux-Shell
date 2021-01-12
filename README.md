@@ -9,8 +9,9 @@ Used the agile scrum methodology in a group of 3 to micmic the functionality of 
 
 # How to use
 - Download the `Assignment2B` folder
-- Ensure you have the speak command jars installed otherwise the speak command will not work!
 - Run `JShell.java` to begin using the program
+
+NOTE: If you want to use the `speak` command, ensure you have the speak command jars installed!
 
 # Commands that our project support:
 - cat 
