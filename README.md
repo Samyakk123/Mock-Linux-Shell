@@ -1,5 +1,6 @@
-**(moving the project to Git resulted in loss of commit history, luckily we also recorded them in our dailyScrumMeetings folder if your interested)!**
-
+```diff
+- (moving the project to Git resulted in loss of commit history, luckily we also recorded them in our dailyScrumMeetings folder if your interested)!
+```
 
 # Mock-Linux-Shell
 
