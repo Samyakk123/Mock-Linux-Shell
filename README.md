@@ -1,10 +1,12 @@
+**(moving the project to Git resulted in loss of commit history, luckily we also recorded them in our dailyScrumMeetings folder if your interested)!**
+
+
 # Mock-Linux-Shell
 
 Used the agile scrum methodology in a group of 3 to micmic the functionality of a linux shell by effectively using software design patterns such as singleton, interfaces, and dependency injection.
 
 **Version control for this project was initially conducted in SVN, (Hence why commit history is so small)**
 
-**(moving the project to Git resulted in loss of commit history, luckily we also recorded them in our dailyScrumMeetings folder if your interested)!**
 
 
 # How to use
